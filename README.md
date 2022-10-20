@@ -1,4 +1,4 @@
-# Adaptive Inverse Transform Sampling For Efficient Vision Transformers
+# Adaptive Token Sampling For Efficient Vision Transformers
 ![Attention pattern](https://adaptivetokensampling.github.io/assets/affiliations.png "Attention pattern")
 This is the official implementation of the ECCV 2022 paper: ["Adaptive Token Sampling for Efficient Vision Transformers"](https://arxiv.org/pdf/2111.15667.pdf).
 
@@ -36,9 +36,6 @@ Largely follows the original SlowFast repo requirements:
 - simplejson: `pip install simplejson`
 - PyYaml: (will be installed along with fvcore)
 - tqdm: (will be installed along with fvcore)
-- iopath: `pip install -U iopath` or `conda install -c iopath iopath`
-- psutil: `pip install psutil`
-- OpenCV: `pip install opencv-python`
 - torchvision: `pip install torchvision` or `conda install torchvision -c pytorch`
 - tensorboard: `pip install tensorboard`
 
