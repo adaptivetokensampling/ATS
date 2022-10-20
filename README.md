@@ -1,6 +1,6 @@
 # Adaptive Inverse Transform Sampling For Efficient Vision Transformers
 ![Attention pattern](https://adaptivetokensampling.github.io/assets/affiliations.png "Attention pattern")
-This is the official implementation of the ECCV 2022 paper: ["Adaptive Token Sampling for Efficient Vision Transformers"](https://arxiv.org/pdf/2111.15667.pdf):
+This is the official implementation of the ECCV 2022 paper: ["Adaptive Token Sampling for Efficient Vision Transformers"](https://arxiv.org/pdf/2111.15667.pdf).
 
 ```BibTeX
 @article{fayyaz2022ats,
