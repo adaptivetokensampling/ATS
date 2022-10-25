@@ -10,7 +10,7 @@ from timm.models.layers import DropPath
 from torch import Tensor
 from torch import nn as nn
 import torch.nn.functional as F
-from .cuda import gather_tokens, scatter_tokens
+# from .cuda import gather_tokens, scatter_tokens
 
 
 class AfterReconstruction(nn.Identity):
