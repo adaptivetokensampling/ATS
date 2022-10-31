@@ -59,7 +59,7 @@ Largely follows the original SlowFast repo requirements:
 │  ├── ......
 ```
 
-For imagenet preparation you may go to val and run:
+For imagenet preparation you may change directory to val and run:
 ```bash
 wget -qO- https://raw.githubusercontent.com/adaptivetokensampling/ATS/main/utils/valdirs.sh | bash
 ```
