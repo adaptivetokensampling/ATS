@@ -59,6 +59,11 @@ Largely follows the original SlowFast repo requirements:
 │  ├── ......
 ```
 
+For imagenet preparation you may go to val and run:
+```bash
+wget -qO- https://raw.githubusercontent.com/adaptivetokensampling/ATS/main/utils/valdirs.sh | bash
+```
+
 ### Evaluation
 
 Download the pretrained Deit-S model from [LINK.](https://dl.fbaipublicfiles.com/deit/deit_small_patch16_224-cd65a155.pth) 
